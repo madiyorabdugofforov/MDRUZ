@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>mdruz | Backend Dasturchi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Salom! Men <span class="highlight">mdruz</span></h1>
+    <p>Python & Backend dasturchiman — Flask, Django, FastAPI, PostgreSQL, REST API, Git, Docker bilan ishlayman.</p>
+  </header>
+
+  <section class="projects">
+    <h2>🚀 Loyihalarim</h2>
+    <div class="project">
+      <h3>📝 Blog API (Django REST)</h3>
+      <p>Blog yaratish uchun RESTful API. JWT, CRUD, filtering, pagination.</p>
+      <a href="https://github.com/mdruz/blog-api" target="_blank">GitHub’da ko‘rish</a>
+    </div>
+
+    <div class="project">
+      <h3>✅ ToDo App (Flask)</h3>
+      <p>Flask asosida oddiy vazifalar ro‘yxati, SQLite bilan backend.</p>
+      <a href="https://github.com/mdruz/flask-todo" target="_blank">GitHub’da ko‘rish</a>
+    </div>
+
+    <div class="project">
+      <h3>📦 E-commerce API (FastAPI)</h3>
+      <p>Online do‘kon uchun mahsulotlar, buyurtmalar, foydalanuvchilarni boshqaruvchi API.</p>
+      <a href="https://github.com/mdruz/fastapi-shop" target="_blank">GitHub’da ko‘rish</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 mdruz | <a href="https://github.com/mdruz" target="_blank">GitHub Profilim</a></p>
+  </footer>
+</body>
+</html>
 # MDRUZ
